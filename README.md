@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Meski Amal</h1>
-<img align="right" alt="coding" width="400" height="280" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="coding" width="310" height="280" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 <h3 align="left">About me :</h3>
 <p> I'm a a second-year student in professional training in computer science, with passion for coding and problem-solving. I love diving into new technologies and exploring different programming languages. Whether it's building wev application or creating innovative solutions, I enjoy the challenge of turning ideas into reality... Join me in this journey, and let's create amazing projects together! </p>
