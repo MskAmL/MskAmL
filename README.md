@@ -19,11 +19,12 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> </br>
 
 #
+![](https://github-readme-streak-stats.herokuapp.com/?user=MskAmL&theme=dark&hide_border=false)
+[![](https://github-readme-stats.vercel.app/api?username=MskAmL&theme=dark&hide)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left"> GitHub Stats Card :</h3>
+#
+[![](https://visitcount.itsvg.in/api?id=MskAmL&icon=5&color=3)](https://visitcount.itsvg.in)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MskAmL)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MskAmL&theme=dark&hide_border=false)<br/>
 
 
 
