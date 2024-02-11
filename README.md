@@ -19,7 +19,9 @@
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> </br>
 
 #
-[![](https://github-readme-stats.vercel.app/api?username=MskAmL&theme=dark&hide)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">GitHub Stats Card: </h3>
+
+![](https://github-readme-stats.vercel.app/api?username=MskAmL&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 #
 [![](https://visitcount.itsvg.in/api?id=MskAmL&icon=5&color=3)](https://visitcount.itsvg.in)
